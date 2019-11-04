@@ -19,5 +19,5 @@ Update of the Numpy_MAtrix-Calculator_v1.0.
 of plotting graphs and handling tables.
 
 
-$_Aang Studios production &copy 2019._
-$_ADMINIXTRATOR @Aang Studios._
+### $ Aang Studios production &copy 2019.
+### $ ADMINIXTRATOR @Aang Studios.
