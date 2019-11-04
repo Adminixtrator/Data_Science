@@ -1,10 +1,10 @@
 # Numpy_Matrix-Calculator_v2.0
 
-DESCRIPTION
+## DESCRIPTION
 ---------------------------------
 Update of the Numpy_MAtrix-Calculator_v1.0. 
 
-FEATURES
+## FEATURES
 ---------------------------------
 - Calls from higher advanced numpy functions
 - Less bulky; Shorter length of code
@@ -13,11 +13,11 @@ FEATURES
 - Improved accuracy
 - Added one more operation - Simultaneous Equations
 
-UPDATE
+## UPDATE
 ---------------------------------
     Version 3.0 to be out soon. v3.0 will have the capabilities 
 of plotting graphs and handling tables.
 
 
-_Aang Studios production &copy 2019._
-_ADMINIXTRATOR @Aang Studios._
+$_Aang Studios production &copy 2019._
+$_ADMINIXTRATOR @Aang Studios._
