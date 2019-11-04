@@ -15,9 +15,9 @@ Update of the Numpy_MAtrix-Calculator_v1.0.
 
 ## UPDATE
 ---------------------------------
-    Version 3.0 to be out soon. v3.0 will have the capabilities 
-of plotting graphs and handling tables.
+    Version 3.0 to be out soon. v3.0 will have the capabilities of plotting graphs and handling tables.
 
 
-### $ Aang Studios production &copy 2019.
-### $ ADMINIXTRATOR @Aang Studios.
+*Aang Studios production &copy 2019.
+
+_ADMINIXTRATOR @Aang Studios.
