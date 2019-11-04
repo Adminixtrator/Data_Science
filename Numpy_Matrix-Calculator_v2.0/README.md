@@ -19,5 +19,5 @@ UPDATE
 of plotting graphs and handling tables.
 
 
-Aang Studios production &copy 2019. 
-ADMINIXTRATOR @Aang Studios.
+_Aang Studios production &copy 2019._
+_ADMINIXTRATOR @Aang Studios._
