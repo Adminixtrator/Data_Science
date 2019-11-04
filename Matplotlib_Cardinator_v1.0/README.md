@@ -23,7 +23,7 @@ This is the first evaluation build of the Matplotlib Cardinator
 *Created on Sat Aug 10 12:10:40 2019*
 -------------------------------------
    _@author: minixtrator@gmail.com_
-            _ADMINIXTRATOR @Aang Studios_
+            *ADMINIXTRATOR @Aang Studios*
 
 
 *Aang Studios production &copy 2019.*
