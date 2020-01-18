@@ -1,8 +1,16 @@
+# Created by: ADMINIXTRATOR             Date: 28th August, 2019
+# Twitter: Adminixtrator                Email: minixtrator@gmail.com
+
 import numpy as admin
+
 
 while True:
     print('''\n\t -------------------\n\t| MATRIX CALCULATOR |
-\t -------------------\n\n''')
+\t -------------------\n''')
+
+    print('''\n Created by: ADMINIXTRATOR             Date: 28th August, 2019
+ Twitter: Adminixtrator                Email: minixtrator@gmail.com\n\n''')
+
 
     print('''[1.] Determinant\n[2.] Transpose\n[3.] Inverse
 [4.] Addition\n[5.] Subtraction\n[6.] Multiplication\n[7.] Division\n[8.] Simultaneous Equation\n''')
@@ -2021,7 +2029,10 @@ while True:
             print('''Dimension error--
  --Operation cannot be performed with given matrix.\n''')
         
-
+#--------------------------------------------------------------------------------------------------------------------------------------------
+#--------------------------------------------------| EXIT |---------------------------------------------------------------------
+    elif op == 'exit':
+        break
 #--------------------------------------------------------------------------------------------------------------------------------------------
     #OP9----------
 #--------------------------------------------------| EXCEPTION |---------------------------------------------------------------------
